@@ -131,7 +131,7 @@ README and an _\_assets_ folder that includes the following files:
 6) _SPI Report WF.png_ - Wireframe showing the client's general concept for the
    Sensory Preferences Inventory report
 
-You can choose to use to use the JSON files as mock data, if you'd like.
+You can choose to use the JSON files as mock data, if you'd like.
 However, the client is fine with copy and paste as well.
 
 ## The approach
